@@ -1,0 +1,49 @@
+.carousel-item{
+    background-position: center center;
+    background-size: cover;
+    max-height: 600px;
+}
+body{
+    background-color: #a8a7a7;
+    max-width: 100%;
+}
+.navbar{
+    background-color: #006666;
+}
+.carousel-inner{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.openTime{
+    text-decoration: underline; 
+    text-underline-offset: 10px;
+}
+.footer{
+    height: 75px;
+    background-color: #006666;
+    width: 100%;
+}
+.footer-item{
+    height: 20px;
+    width: 20px;
+    position: relative;
+    bottom: 1.5px;
+}
+#nyitvatartas{
+    background-color: rgba(255, 255, 255, 0.582);
+    height: 100%;
+}
+
+.paint-color{
+    position: absolute;
+    top: 10px;
+    right: 12px; 
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+.banner{
+    background-image: url(/img/paint.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
