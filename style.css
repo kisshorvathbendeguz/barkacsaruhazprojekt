@@ -42,7 +42,7 @@ body{
     border-radius: 50%;
 }
 .banner{
-    background-image: url(/img/paint.jpg);
+    background-image: url(paint.jpg);
     background-position: center center;
     background-size: cover;
     height: 400px;
@@ -50,4 +50,9 @@ body{
 }
 .card-img-top{
     max-height: 222px;
+    min-height: 222px;
+}
+.footer-row{
+    position: relative;
+    top: 20px;
 }
