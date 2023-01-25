@@ -52,3 +52,7 @@ body{
     max-height: 222px;
     min-height: 222px;
 }
+.footer-row{
+    position: relative;
+    top: 20px;
+}
