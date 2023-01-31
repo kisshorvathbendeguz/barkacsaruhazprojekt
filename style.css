@@ -56,3 +56,6 @@ body{
     position: relative;
     top: 20px;
 }
+#szerszamok{
+    background-image: url(../barkacsaruhazprojekt/szerszamok/img/background-tree-wood-boards.jpg);
+}
